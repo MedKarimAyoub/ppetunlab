@@ -1,0 +1,131 @@
+body {
+  font-family: "Montserrat";
+}
+
+/* Teaser Section */
+#Teaser {
+  background-color: #008891;
+  color: #fff;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Navigator */
+.navbar {
+  padding-bottom: 4.5rem;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.navbar-brand {
+  font-family: 'Hachi Maru Pop', cursive;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  font-size: 1rem;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.nav-link {
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+
+/* Title image  */
+.title-img {
+  width: 80%;
+  position: relative;
+  left: 15%;
+}
+
+.container-fluid {
+  padding: 3% 7%;
+}
+
+/* What we do section */
+#WhatWeDo {
+  padding: 3% 7%;
+}
+
+.WhatWeDoFeatures {
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.icon {
+  color: #008891;
+  padding-bottom: 20px;
+}
+
+.icon:hover {
+  color: #0f3057;
+}
+
+.feature-text {
+  text-align: left;
+  color: #8f8f8f;
+  letter-spacing: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.5;
+}
+
+/* What we have section */
+#WhatWeHave {
+  background-color: #008891;
+  color: #fff;
+  padding: 3% 7%;
+  text-align: center;
+}
+
+h3{
+  font-family: "Montserrat";
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.usage-machine {
+  color: #fff;
+  letter-spacing: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.carousel-inner {
+  padding: 3% 7%;
+}
+
+.WhatWeHave-image {
+  width: 50%;
+  margin: 3%;
+}
+
+.Credential{
+  text-align: left;
+  color: #8f8f8f;
+  letter-spacing: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 0;
+  padding-right: 0;
+}
